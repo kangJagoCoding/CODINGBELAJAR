@@ -1,0 +1,6 @@
+{
+  "name": "AugmentLab - Dataset Augmentation Studio",
+  "description": "Batch image and YOLO annotation augmentation tool for Go image processing backend with ezgif-style workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
